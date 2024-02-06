@@ -1,0 +1,26 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+click==8.1.3
+cmake==3.25.2
+colorama==0.4.6
+contourpy==1.0.7
+cycler==0.11.0
+dlib @ https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.99-cp310-cp310-win_amd64.whl
+docopt==0.6.2
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+fonttools==4.38.0
+idna==3.4
+kiwisolver==1.4.4
+matplotlib==3.7.0
+numpy==1.24.2
+opencv-contrib-python==4.7.0.72
+packaging==23.0
+Pillow==9.4.0
+pipreqs==0.4.13
+pyparsing==3.0.9
+python-dateutil==2.8.2
+requests==2.31.0
+six==1.16.0
+urllib3==2.0.4
+yarg==0.1.9
