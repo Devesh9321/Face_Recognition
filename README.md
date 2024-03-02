@@ -29,7 +29,7 @@ I have articulated the steps in text format here :
 
   - Star this repository (top right corner) 
   - <>Code > Download ZIP > Open cmd/terminal in that location
-  - Create Virtual Environment : `virtualenv venv`
+  - Create Virtual Environment : `python -m virtualenv venv`
   - Start Virtual Environment : `./venv/Scripts/activate.ps1`
   - Reqiuired packages : `pip install -r requirements.txt`
   - Run this command : `python gui.py`
